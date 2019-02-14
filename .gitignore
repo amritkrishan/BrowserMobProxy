@@ -1,0 +1,9 @@
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+*.log
+*.iws
+*.iml
+*/target/**
+.DS_Store
+.DS_Store?
